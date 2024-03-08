@@ -5,7 +5,7 @@
 #define pi pair<ll, ll>
 #define pii pair<pi,ll>
 using namespace std;
-const ll N = 1000;
+const ll N = 1005;
 ll a[N][N];
 ll dis[N][N];
 bool vis[N][N];
